@@ -1,0 +1,36 @@
+{
+  "name": "logan-sorting-algorithms-ts",
+  "version": "1.0.0",
+  "description": "Sorting Algorithms with Explanation Using Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "files": [
+    "lib /**/*"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Logan-0/Logan-Sorting-Algorithms-Ts.git"
+  },
+  "keywords": [
+    "Sorting",
+    "Merge",
+    "Bubble",
+    "Selection",
+    "Concept",
+    "Examples",
+    "TypeScript",
+    "Ts"
+  ],
+  "author": "Logan Carpenter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Logan-0/Logan-Sorting-Algorithms-Ts/issues"
+  },
+  "homepage": "https://github.com/Logan-0/Logan-Sorting-Algorithms-Ts#readme",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
