@@ -1,4 +1,13 @@
 /**
+* 
+* Logan's Simple Array Sorter
+* Date Started: 08/12/22
+* Date Last Updated: 09/15/24
+* Last Updated By: Logan-0
+* 
+*/
+
+/**
  * The SWAP function
  * 
  * Starting Values, TEMP = Null, 1 = *1, 2 = *2
